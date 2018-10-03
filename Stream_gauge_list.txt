@@ -1,0 +1,4 @@
+https://nwis.waterdata.usgs.gov/nc/nwis/uv/?cb_00060=on&cb_00065=on&format=rdb&site_no=02109500&period=&begin_date=1900-09-24&end_date=2018-10-01
+https://nwis.waterdata.usgs.gov/nc/nwis/uv/?cb_00060=on&cb_00065=on&format=rdb&site_no=02134500&period=&begin_date=1900-09-24&end_date=2018-10-01
+https://nwis.waterdata.usgs.gov/nc/nwis/uv/?cb_00060=on&cb_00065=on&format=rdb&site_no=02091814&period=&begin_date=1900-09-24&end_date=2018-10-01
+https://nwis.waterdata.usgs.gov/nc/nwis/uv/?cb_00060=on&cb_00065=on&format=rdb&site_no=02105769&period=&begin_date=1900-09-24&end_date=2018-10-01
